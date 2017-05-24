@@ -1,0 +1,2 @@
+# udtPushToCMDB
+解析udt的库文件并推送给CMDB（此项目已经停止维护，被新版vservermap中的Restful接口代替）
